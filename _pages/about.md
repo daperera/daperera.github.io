@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Bio"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am a researcher in Machine Learning. In February 2025, I received a PhD in Machine Learning from Télécom Paris university. 
 
 Over the last few millennia of our history, humanity has pushed very far the boundaries of our knowledge on our surrounding world. We have observed the first few instants of the birth of the universe and uncovered the laws that rule its distant future; measured the tiniest elementary particles at the core of matter, and explored the largest structures that they form, on scales that defy the imagination; analyzed the chaotical behavior of complex and extremely entangled systems, including one of the most complex of all, our own brain with its billions of synaptic connections firing in an electrical danse; dissected the inner workings of our reason, by defining mathematical abstractions that capture its essence, raising in abstraction and creating concepts and theorems which full implications evade the brightest minds. 
