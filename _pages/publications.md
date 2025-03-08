@@ -9,7 +9,7 @@ You can find my articles [my Google scholar profile](https://scholar.google.com/
 
 # List of publications
 
-(2025) *Multiple Choice Learning for Efficient Speech Separation with Many Speakers*, D. Perera, F. Derrida, T. Mariotte, G. Richard and S. Essid. International Conference on Acoustics, Speech and Signal Processing (ICASSP).
+(2024) *Multiple Choice Learning for Efficient Speech Separation with Many Speakers*, D. Perera, F. Derrida, T. Mariotte, G. Richard and S. Essid. International Conference on Acoustics, Speech and Signal Processing (ICASSP).
 
 (2024) *Annealed Multiple Choice Learning: Overcoming limitations of Winner-takes-all with annealing*, D. Perera, V. Letzelter, T. Mariotte, A. Cortés, M. Chen, S. Essid and G. Richard. Conference on Neural Information Processing Systems (NeurIPS).
 
