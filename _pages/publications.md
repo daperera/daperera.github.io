@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find my articles [my Google scholar profile](https://scholar.google.com/citations?hl=en&user=eyL65OAAAAAJ), and my PhD manuscript [there](https://drive.google.com/file/d/1NfLrypO9INlEpWzLxX5T_ScypGaS0ZBW/view?usp=drive_link).
+You can find my articles on my [Google scholar](https://scholar.google.com/citations?hl=en&user=eyL65OAAAAAJ) profile, and my PhD manuscript at the following [url](https://drive.google.com/file/d/1NfLrypO9INlEpWzLxX5T_ScypGaS0ZBW/view?usp=drive_link).
 
 # List of publications
 
