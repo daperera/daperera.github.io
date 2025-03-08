@@ -1,9 +1,8 @@
 ---
+layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /publications.html
 ---
 
 You can find my articles [my Google scholar profile](https://scholar.google.com/citations?hl=en&user=eyL65OAAAAAJ), and my PhD manuscript [there](https://drive.google.com/file/d/1NfLrypO9INlEpWzLxX5T_ScypGaS0ZBW/view?usp=drive_link).
