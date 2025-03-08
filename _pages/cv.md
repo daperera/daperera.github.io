@@ -11,7 +11,7 @@ Education
 ======
 * 2021-2025: Ph.D: Ambiguity and Invariance in Machine Listening, Télécom Paris - Institut Polytechnique de Paris, Palaiseau, France
     * Advisors: Prof. Gaël Richard, Prof. Slim Essid. 
-    * Learn invariant representations with data aumentation.
+    * Learn invariant representations with data augmentation.
     * Mitigate task ambiguity and find optimal quantization with Multiple Choice Learning.
     * Application to sound event detection, source localisation and speech separation.
 * 2016-2020: M.S. in Computer Science, Télécom Paris, Paris, France
@@ -47,7 +47,7 @@ Skills
 Awards
 ======
 * 2021: Best poster award, HI! Paris Summer school ($1,000).
-* 2018: Honorable mention , SWERC (ICPC regional qualification contest).
+* 2018: Honorable mention, SWERC (ICPC regional qualification contest).
 
 Outreach 
 ======
