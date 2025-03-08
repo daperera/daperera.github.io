@@ -6,7 +6,9 @@ redirect_from:
   - /publications.html
 ---
 
-You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=eyL65OAAAAAJ)
+You can find my articles [my Google scholar profile](https://scholar.google.com/citations?hl=en&user=eyL65OAAAAAJ), and my PhD manuscript [there](https://drive.google.com/file/d/1NfLrypO9INlEpWzLxX5T_ScypGaS0ZBW/view?usp=drive_link).
+
+# List of publications
 
 (2025) *Multiple Choice Learning for Efficient Speech Separation with Many Speakers*, D. Perera, F. Derrida, T. Mariotte, G. Richard and S. Essid. International Conference on Acoustics, Speech and Signal Processing (ICASSP).
 
