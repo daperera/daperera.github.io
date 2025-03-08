@@ -7,63 +7,52 @@ redirect_from:
   - /resume
 ---
 
-Page under construction.
-
-<!--
-{% include base_path %}
-
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
+* 2021-2025: Ph.D: Ambiguity and Invariance in Machine Listening, Télécom Paris - Institut Polytechnique de Paris, Palaiseau, France
+    * Advisors: Prof. Gaël Richard, Prof. Slim Essid. 
+    * Learn invariant representations with data aumentation.
+    * Mitigate task ambiguity and find optimal quantization with Multiple Choice Learning.
+    * Application to sound event detection, source localisation and speech separation.
+* 2016-2020: M.S. in Computer Science, Télécom Paris, Paris, France
+    * Majors in Distributed Computing and Machine Learning.
+* 2014-2016: Higher school preparatory classes, Lycée Charlemagne, Paris, France 
+    * Intensive two years program in Mathematics and Physics (MP*).
+ 
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024: Mentoring a 5 month internship, Télécom Paris - Institut Polytechnique de Paris, Palaiseau, France
+    * Speech separation with an unknown number of speakers.
+* 2019: Graduate research internship (6 months), Tokyo Institute of Technology, Tokyo, Japan
+    * Mitigate virus propagation in a distributed computer system (Markov Model, Graph Theory).
+* 2018-2019: Internship (1 year), EDF Lab Paris-Saclay, Palaiseau, France
+    * Develop a simulation platform and a web application to interact with the platform (Akka, Angular).
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Presentations
+======
+* 2024: Invited talk at Cergy University (ETIS Lab).
+* 2024: Invited talk at Flatiron Institute (CCM).
+* 2024: Invited talk at Nantes University (LS2N).
+* 2022: Poster and oral presentation at GDR ISIS Audio.
+* 2022: Poster and oral presentation at DCASE.
+* 2022: Poster and oral presentation at GRETSI.
+* 2022: Poster presentation at Hi! Paris meetup on computer vision.
+* 2022: Poster presentation at Hi! Paris Summer School.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python (Pytorch, Lightning), Java (Akka), C++, Git, Latex.
+* Language: French (native), English (professional proficiency), Portuguese (intermediate), Japanese (basic).
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2021: Best poster award, HI! Paris Summer school ($1,000).
+* 2018: Honorable mention , SWERC (ICPC regional qualification contest).
 
--->
+Outreach 
+======
+* 2024: Peer review at ICASSP conference.
+* 2024: Peer review at NeurIPS conference.
+* 2023: Committee Member, and organization of Task 4 challenge.
+* 2022: Volunteer assistant at DCASE workshop.
+* 2022: Peer review at DCASE workshop.
